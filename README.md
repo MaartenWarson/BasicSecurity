@@ -7,6 +7,8 @@ A user is able to select a file and send this file encrypted (AES) to another re
 
 Stenography has also been applied in this project: A registered user is able to hide a secret message in an image and send this image to another registered user. This user - and only this user(!) - can read the secret message hidden in this picture.
 
+This application is written in C# (.NET Framework 4.6.1)
+
 ## Running the project locally
 1. Run the project
 2. Files that are needed for this application will be created immediately if those does not exist
